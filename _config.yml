@@ -1,0 +1,14 @@
+layout_spectrum: 0.2239336164202541
+typography_spectrum: 0.5102679363917559
+color:
+  brandStrength: 0.939539112849161
+  lightness: 0.8558031104039401
+  saturation: 0.1374797581229359
+  rhythmicContrast: 0.7551923720166087
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Photo Test
